@@ -18,6 +18,8 @@
 
 #include <arrow/c/bridge.h>
 #include <arrow/dataset/api.h>
+#include <arrow/dataset/api.h>
+#include <duckdb/storage/data_table.hpp>
 
 #include <rbgobject.h>
 
